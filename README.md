@@ -13,6 +13,6 @@ There are the installation instuctions.
 >
 > 3- Edit the config file as your convenience.
 >
-> 4- Edit the MySQL credentials in `ctime/autorun/server/sv_ctime.lua`. There you put the previously created (or not) **MySQL DB Name, User, Password and Port**.
+> 4- Edit the MySQL credentials in `ctime/lua/autorun/server/sv_ctime.lua`. There you put the previously created (or not) **MySQL DB Name, User, Password and Port**.
 >
 > 5- Restart your Gmod Server !
