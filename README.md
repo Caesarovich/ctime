@@ -20,5 +20,5 @@ There are the installation instuctions.
 
 # Screenshot InGame
 
-![Ingame Image](https://imgur.com/mpP3FFc)
+![Ingame Image](https://imgur.com/mpP3FFc.png) 
 
